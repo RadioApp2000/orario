@@ -1,0 +1,179 @@
+sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	width: 612.00pt;
+	height: 792.00pt;
+	border-style: none;
+	display: block;
+	margin: 0px;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0.00pt;
+	top: 0.00pt;
+}
+.stl_05 {
+	position: relative;
+	width: 612.00pt;
+}
+.stl_06 {
+	height: 792.00pt;
+}
+.stl_07 {
+	font-size: 12.21pt;
+	font-family: "Calibri Light";
+	color: #000000;
+}
+.stl_08 {
+	line-height: 14.90pt;
+}
+.stl_09 {
+	letter-spacing: 0.00pt;
+}
+
+.ie .stl_09 {
+	letter-spacing: 0px;
+}
+.stl_10 {
+	font-size: 6.72pt;
+	font-family: "Calibri";
+	color: #000000;
+}
+.stl_11 {
+	line-height: 8.20pt;
+}
+.stl_12 {
+	font-size: 6.72pt;
+	font-family: "Calibri";
+	color: #7E9DB9;
+}
+.stl_13 {
+	font-size: 6.72pt;
+	font-family: "Calibri";
+	color: #2E75B5;
+}
+.stl_14 {
+	font-size: 6.72pt;
+	font-family: "Calibri";
+	color: #979797;
+}
+.stl_15 {
+	font-size: 4.88pt;
+	font-family: "Verdana";
+	color: #0000FF;
+}
+.stl_16 {
+	line-height: 5.94pt;
+}
+.stl_17 {
+	font-size: 6.11pt;
+	font-family: "Verdana";
+	color: #006699;
+}
+.stl_18 {
+	line-height: 7.42pt;
+}
+.stl_19 {
+	font-size: 4.88pt;
+	font-family: "Verdana";
+	color: #333333;
+}
+.stl_20 {
+	position: absolute;
+	pointer-events: none;
+	left: 139.52pt;
+	top: 303.88pt;
+	width: 11.99pt;
+	height: 11.99pt;
+}
+.stl_21 {
+	position: absolute;
+	pointer-events: none;
+	left: 139.52pt;
+	top: 329.73pt;
+	width: 11.99pt;
+	height: 11.99pt;
+}
+.stl_22 {
+	position: absolute;
+	pointer-events: none;
+	left: 139.52pt;
+	top: 346.66pt;
+	width: 11.99pt;
+	height: 11.99pt;
+}
+.stl_23 {
+	position: absolute;
+	pointer-events: none;
+	left: 139.52pt;
+	top: 363.58pt;
+	width: 11.99pt;
+	height: 11.99pt;
+}
+.stl_24 {
+	position: absolute;
+	pointer-events: none;
+	left: 139.52pt;
+	top: 380.50pt;
+	width: 11.99pt;
+	height: 11.99pt;
+}
+.stl_25 {
+	position: absolute;
+	pointer-events: none;
+	left: 139.52pt;
+	top: 406.36pt;
+	width: 11.99pt;
+	height: 11.99pt;
+}
+.stl_26 {
+	position: absolute;
+	pointer-events: none;
+	left: 139.52pt;
+	top: 423.28pt;
+	width: 11.99pt;
+	height: 11.99pt;
+}
+.stl_27 {
+	position: absolute;
+	pointer-events: none;
+	left: 139.52pt;
+	top: 449.13pt;
+	width: 11.99pt;
+	height: 11.99pt;
+}
+.stl_28 {
+	position: absolute;
+	pointer-events: none;
+	left: 139.52pt;
+	top: 466.06pt;
+	width: 11.99pt;
+	height: 11.99pt;
+}
+.stl_29 {
+	position: absolute;
+	pointer-events: none;
+	left: 139.52pt;
+	top: 482.98pt;
+	width: 11.99pt;
+	height: 11.99pt;
+}
